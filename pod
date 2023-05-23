@@ -1,1 +1,2 @@
 this is sample pod file to test.
+pod isused for deployment purpose.
